@@ -41,7 +41,7 @@
 				    </ul>
 
 			      <span class="navbar-text">
-			      	<a href="registration.php">DASHBOARD</a>
+			      	<a href="admin/">DASHBOARD</a>
 
 			      </span>
 			    </div>
